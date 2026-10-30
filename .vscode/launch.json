@@ -3,9 +3,10 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Ejecutar frmTransacciones",
+            "name": "Ejecutar CuentasApplication (Spring Boot)",
             "request": "launch",
-            "mainClass": "Vista.frmTransacciones"
+            "mainClass": "com.cuentas.CuentasApplication",
+            "projectName": "isii-09-cuentas"
         }
     ]
 }
